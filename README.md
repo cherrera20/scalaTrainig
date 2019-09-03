@@ -1,0 +1,2 @@
+# scalaTrainig
+learning scala
